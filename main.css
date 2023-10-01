@@ -59,7 +59,19 @@ a {
 .black {
   color: #212121;
 }
-
+.p {
+  color: #252525;
+  width: 70%;
+  overflow: hidden;
+  font-family: 'Poppins-Medium';
+  padding-top: 1%;
+  transform:translateY(50%)
+}
+.img1 {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
 .pearl, a.pearl {
   color: #fff;
 }
